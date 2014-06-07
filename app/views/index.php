@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fast Pocket</title>
     <link rel="stylesheet" href="foundation/css/foundation.css" />
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans|Muli:300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/general_style.css" />
     <script src="js/vendor/modernizr.js"></script>
 </head>
@@ -33,11 +33,21 @@
         <a class="hyper-title" href="#">Fast Pocket</a>
     </div>
 </div>
-<div class="row">
-    <div class="small-12 medium-12 large-12 columns">
-        Register and start to Spritz your Pocket articles.
+
+
+<article class="mainArticle">
+    <div class="row">
+        <div class="small-4 medium-4 large-4 columns">
+            Read your pocket articles now!
+        </div>
+        <div class="small-4 medium-4 large-4 columns">
+            Choose your article depending of your free time.
+        </div>
+        <div class="small-4 medium-4 large-4 columns">
+            It's Free!
+        </div>
     </div>
-</div>
+</article>
 
 
 <script src="foundation/js/vendor/jquery.js"></script>
