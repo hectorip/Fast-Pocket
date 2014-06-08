@@ -6,6 +6,7 @@
     <title>Fast Pocket</title>
     <link rel="stylesheet" href="foundation/css/foundation.css" />
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/general_style.css" />
     <script src="js/vendor/modernizr.js"></script>
 </head>
@@ -28,23 +29,23 @@
     </section>
 </nav>
 
-<div class="row">
-    <div class="large-12 columns center">
+<div class="row text-center">
+    <div class="large-12 columns">
         <a class="hyper-title" href="#">Fast Pocket</a>
     </div>
 </div>
 
 
-<article class="mainArticle">
-    <div class="row">
+<article class="mainArticle text-left">
+    <div class="row intro">
         <div class="small-4 medium-4 large-4 columns">
-            Read your pocket articles now!
+            <div class="info-wrapper">Read your pocket articles faster!</div>
         </div>
         <div class="small-4 medium-4 large-4 columns">
-            Choose your article depending of your free time.
+            <div class="info-wrapper">Choose your article depending of your free time.</div>
         </div>
         <div class="small-4 medium-4 large-4 columns">
-            It's Free!
+            <div class="info-wrapper"></div>
         </div>
     </div>
 </article>
